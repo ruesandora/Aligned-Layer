@@ -27,7 +27,7 @@ aligned submit \
 
 > Akabinde altta ki gibi bir çıktı alın, linke tıklayın Verified olmasını bekleyin.
 
-> Son olarakta bu ekran görüntüsünü ailgned'i etiketleyerek - TX HASH İLE BİRLİKTE tweetleyin. (benim tweette yaptığım gibi)
+> Son olarakta bu ekran görüntüsünü ailgned'i etiketleyerek - TX HASH İLE BİRLİKTE tweetleyin.
 
 > Tweet'i [discorda](https://discord.gg/b8jKaYBK) testnet kanalında paylaşın.
 
